@@ -1,0 +1,16 @@
+[ {
+  "patchName" : "Theme",
+  "options" : [ {
+    "key" : "darkThemeBackgroundColor",
+    "value" : "@android:color/black"
+  }, {
+    "key" : "lightThemeBackgroundColor",
+    "value" : "@android:color/white"
+  } ]
+}, {
+  "patchName" : "GmsCore support",
+  "options" : [ {
+    "key" : "gmsCoreVendorGroupId",
+    "value" : "app.revanced"
+  } ]
+} ]
