@@ -1,2 +1,2 @@
-# reavnced-patch
+# revanced-patch
 prepatched ReVanced APKs
